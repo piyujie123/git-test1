@@ -7,5 +7,6 @@ public class java {
         System.out.println("master test");
         System.out.println("master1 test");
         System.out.println("push test");
+        System.out.println("push SSH-test");
     }
 }
