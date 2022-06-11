@@ -9,5 +9,6 @@ public class java {
         System.out.println("push test");
         System.out.println("push SSH-test");
         System.out.println("pull SSH-test");
+        System.out.println("push1 SSH-test");
     }
 }
