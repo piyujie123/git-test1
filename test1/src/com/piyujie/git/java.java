@@ -6,5 +6,6 @@ public class java {
         System.out.println("爱好1");
         System.out.println("master test");
         System.out.println("master1 test");
+        System.out.println("push test");
     }
 }
